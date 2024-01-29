@@ -1,0 +1,151 @@
+﻿GPT_Answer_ID|Prompt_ID_Nummer|Prompt_Category|Prompt_Level|Prompt_Language|Prompt_GPT_Model|Prompt_Temperature|Prompt_Run|Actual_Result_RowCount|Desired_Result_RowCount|Actual_Result_ColumnCount|Desired_Result_ColumnCount|EvaluationStatus_1|EvaluationStatus_2|ErrorMessage|ExceptionMessage|Comment
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_1|10|CT|Medium|EN|GPT4Turbo|"0.2"|1|672|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_10|10|CT|Medium|EN|GPT4Turbo|"0.2"|10|672|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_2|10|CT|Medium|EN|GPT4Turbo|"0.2"|2|672|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_3|10|CT|Medium|EN|GPT4Turbo|"0.2"|3|21915|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_4|10|CT|Medium|EN|GPT4Turbo|"0.2"|4|672|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_5|10|CT|Medium|EN|GPT4Turbo|"0.2"|5|672|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_6|10|CT|Medium|EN|GPT4Turbo|"0.2"|6|21915|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_7|10|CT|Medium|EN|GPT4Turbo|"0.2"|7|21915|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_8|10|CT|Medium|EN|GPT4Turbo|"0.2"|8|672|672|13|12|Failed|Semantic Error|||
+Prompt_10_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_9|10|CT|Medium|EN|GPT4Turbo|"0.2"|9|672|672|13|12|Failed|Semantic Error|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_1|11|CT|Hard|EN|GPT4Turbo|"0.2"|1|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_10|11|CT|Hard|EN|GPT4Turbo|"0.2"|10|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_2|11|CT|Hard|EN|GPT4Turbo|"0.2"|2|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_3|11|CT|Hard|EN|GPT4Turbo|"0.2"|3|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_4|11|CT|Hard|EN|GPT4Turbo|"0.2"|4|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_5|11|CT|Hard|EN|GPT4Turbo|"0.2"|5|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_6|11|CT|Hard|EN|GPT4Turbo|"0.2"|6|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_7|11|CT|Hard|EN|GPT4Turbo|"0.2"|7|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_8|11|CT|Hard|EN|GPT4Turbo|"0.2"|8|68|68|3|3|Successful|Successful|||
+Prompt_11_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_9|11|CT|Hard|EN|GPT4Turbo|"0.2"|9|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_1|12|CT|Hard|EN|GPT4Turbo|"0.2"|1|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_10|12|CT|Hard|EN|GPT4Turbo|"0.2"|10|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_2|12|CT|Hard|EN|GPT4Turbo|"0.2"|2|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_3|12|CT|Hard|EN|GPT4Turbo|"0.2"|3|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_4|12|CT|Hard|EN|GPT4Turbo|"0.2"|4|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_5|12|CT|Hard|EN|GPT4Turbo|"0.2"|5|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_6|12|CT|Hard|EN|GPT4Turbo|"0.2"|6|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_7|12|CT|Hard|EN|GPT4Turbo|"0.2"|7|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_8|12|CT|Hard|EN|GPT4Turbo|"0.2"|8|68|68|3|3|Successful|Successful|||
+Prompt_12_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_9|12|CT|Hard|EN|GPT4Turbo|"0.2"|9|68|68|3|3|Successful|Successful|||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_1|13|CT|Hard|EN|GPT4Turbo|"0.2"|1|89|89|3|3|Successful|Successful|||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_10|13|CT|Hard|EN|GPT4Turbo|"0.2"|10|||||Failed|Syntax Error|Query (1, 288) Die Spalte [CustomerID] kann von der Funktion "ADDCOLUMNS" nicht hinzugefügt werden, weil sie bereits vorhanden ist.||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_2|13|CT|Hard|EN|GPT4Turbo|"0.2"|2|||||Failed|Syntax Error|Query (1, 288) Die Spalte [CustomerID] kann von der Funktion "ADDCOLUMNS" nicht hinzugefügt werden, weil sie bereits vorhanden ist.||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_3|13|CT|Hard|EN|GPT4Turbo|"0.2"|3|||||Failed|Syntax Error|Query (1, 288) Die Spalte [CustomerID] kann von der Funktion "ADDCOLUMNS" nicht hinzugefügt werden, weil sie bereits vorhanden ist.||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_4|13|CT|Hard|EN|GPT4Turbo|"0.2"|4|89|89|3|3|Successful|Successful|||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_5|13|CT|Hard|EN|GPT4Turbo|"0.2"|5|||||Failed|Syntax Error|Query (1, 288) Die Spalte [CustomerID] kann von der Funktion "ADDCOLUMNS" nicht hinzugefügt werden, weil sie bereits vorhanden ist.||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_6|13|CT|Hard|EN|GPT4Turbo|"0.2"|6|||||Failed|Syntax Error|Query (1, 288) Die Spalte [CustomerID] kann von der Funktion "ADDCOLUMNS" nicht hinzugefügt werden, weil sie bereits vorhanden ist.||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_7|13|CT|Hard|EN|GPT4Turbo|"0.2"|7|||||Failed|Syntax Error|Query (1, 288) Die Spalte [CustomerID] kann von der Funktion "ADDCOLUMNS" nicht hinzugefügt werden, weil sie bereits vorhanden ist.||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_8|13|CT|Hard|EN|GPT4Turbo|"0.2"|8|89|89|3|3|Successful|Successful|||
+Prompt_13_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_9|13|CT|Hard|EN|GPT4Turbo|"0.2"|9|||||Failed|Syntax Error|Query (1, 288) Die Spalte [CustomerID] kann von der Funktion "ADDCOLUMNS" nicht hinzugefügt werden, weil sie bereits vorhanden ist.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_1|14|CT|Hard|EN|GPT4Turbo|"0.2"|1|||||Failed|Syntax Error|Query (1, 224) Für die Spalte "ShippedDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_10|14|CT|Hard|EN|GPT4Turbo|"0.2"|10|||||Failed|Syntax Error|Query (1, 248) Für die Spalte "RequiredDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_2|14|CT|Hard|EN|GPT4Turbo|"0.2"|2|||||Failed|Syntax Error|Query (1, 154) Für die Spalte "OrderDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_3|14|CT|Hard|EN|GPT4Turbo|"0.2"|3|||||Failed|Syntax Error|Query (1, 154) Für die Spalte "OrderDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_4|14|CT|Hard|EN|GPT4Turbo|"0.2"|4|||||Failed|Syntax Error|Query (1, 154) Für die Spalte "OrderDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_5|14|CT|Hard|EN|GPT4Turbo|"0.2"|5|||||Failed|Syntax Error|Query (1, 156) Für die Spalte "OrderDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_6|14|CT|Hard|EN|GPT4Turbo|"0.2"|6|||||Failed|Syntax Error|Query (1, 154) Für die Spalte "OrderDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_7|14|CT|Hard|EN|GPT4Turbo|"0.2"|7|||||Failed|Syntax Error|Query (1, 144) Für die Spalte "OrderDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_8|14|CT|Hard|EN|GPT4Turbo|"0.2"|8|||||Failed|Syntax Error|Query (1, 154) Für die Spalte "OrderDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_14_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_9|14|CT|Hard|EN|GPT4Turbo|"0.2"|9|||||Failed|Syntax Error|Query (1, 347) Für die Spalte "RequiredDate" kann in der Tabelle "Orders" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_1|15|CT|Hard|EN|GPT4Turbo|"0.2"|1|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_10|15|CT|Hard|EN|GPT4Turbo|"0.2"|10|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_2|15|CT|Hard|EN|GPT4Turbo|"0.2"|2|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_3|15|CT|Hard|EN|GPT4Turbo|"0.2"|3|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_4|15|CT|Hard|EN|GPT4Turbo|"0.2"|4|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_5|15|CT|Hard|EN|GPT4Turbo|"0.2"|5|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_6|15|CT|Hard|EN|GPT4Turbo|"0.2"|6|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_7|15|CT|Hard|EN|GPT4Turbo|"0.2"|7|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_8|15|CT|Hard|EN|GPT4Turbo|"0.2"|8|63|63|4|4|Successful|Successful|||
+Prompt_15_CT_Hard_EN_GPT4Turbo_Temp_0.2_Response_9|15|CT|Hard|EN|GPT4Turbo|"0.2"|9|63|63|4|4|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_1|1|CT|Low|EN|GPT4Turbo|"0.2"|1|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_10|1|CT|Low|EN|GPT4Turbo|"0.2"|10|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_2|1|CT|Low|EN|GPT4Turbo|"0.2"|2|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_3|1|CT|Low|EN|GPT4Turbo|"0.2"|3|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_4|1|CT|Low|EN|GPT4Turbo|"0.2"|4|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_5|1|CT|Low|EN|GPT4Turbo|"0.2"|5|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_6|1|CT|Low|EN|GPT4Turbo|"0.2"|6|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_7|1|CT|Low|EN|GPT4Turbo|"0.2"|7|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_8|1|CT|Low|EN|GPT4Turbo|"0.2"|8|91|91|3|3|Successful|Successful|||
+Prompt_1_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_9|1|CT|Low|EN|GPT4Turbo|"0.2"|9|91|91|3|3|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_1|2|CT|Low|EN|GPT4Turbo|"0.2"|1|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_10|2|CT|Low|EN|GPT4Turbo|"0.2"|10|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_2|2|CT|Low|EN|GPT4Turbo|"0.2"|2|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_3|2|CT|Low|EN|GPT4Turbo|"0.2"|3|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_4|2|CT|Low|EN|GPT4Turbo|"0.2"|4|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_5|2|CT|Low|EN|GPT4Turbo|"0.2"|5|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_6|2|CT|Low|EN|GPT4Turbo|"0.2"|6|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_7|2|CT|Low|EN|GPT4Turbo|"0.2"|7|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_8|2|CT|Low|EN|GPT4Turbo|"0.2"|8|9|9|4|4|Successful|Successful|||
+Prompt_2_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_9|2|CT|Low|EN|GPT4Turbo|"0.2"|9|9|9|4|4|Successful|Successful|||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_1|3|CT|Low|EN|GPT4Turbo|"0.2"|1|||||Failed|Syntax Error|Query (1, 110) Für die Spalte "ProductID" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_10|3|CT|Low|EN|GPT4Turbo|"0.2"|10|77|8|3|2|Failed|Semantic Error|||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_2|3|CT|Low|EN|GPT4Turbo|"0.2"|2|||||Failed|Syntax Error|Query (1, 110) Für die Spalte "ProductID" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_3|3|CT|Low|EN|GPT4Turbo|"0.2"|3|||||Failed|Syntax Error|Query (1, 110) Für die Spalte "ProductID" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_4|3|CT|Low|EN|GPT4Turbo|"0.2"|4|8|8|3|2|Failed|Semantic Error|||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_5|3|CT|Low|EN|GPT4Turbo|"0.2"|5|77|8|3|2|Failed|Semantic Error|||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_6|3|CT|Low|EN|GPT4Turbo|"0.2"|6|||||Failed|Syntax Error|Query (1, 110) Für die Spalte "ProductID" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_7|3|CT|Low|EN|GPT4Turbo|"0.2"|7|||||Failed|Syntax Error|Query (1, 110) Für die Spalte "ProductID" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_8|3|CT|Low|EN|GPT4Turbo|"0.2"|8|||||Failed|Syntax Error|Query (1, 110) Für die Spalte "ProductID" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_3_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_9|3|CT|Low|EN|GPT4Turbo|"0.2"|9|||||Failed|Syntax Error|Query (1, 110) Für die Spalte "ProductID" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_1|4|CT|Low|EN|GPT4Turbo|"0.2"|1|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_10|4|CT|Low|EN|GPT4Turbo|"0.2"|10|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_2|4|CT|Low|EN|GPT4Turbo|"0.2"|2|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_3|4|CT|Low|EN|GPT4Turbo|"0.2"|3|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_4|4|CT|Low|EN|GPT4Turbo|"0.2"|4|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_5|4|CT|Low|EN|GPT4Turbo|"0.2"|5|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_6|4|CT|Low|EN|GPT4Turbo|"0.2"|6|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_7|4|CT|Low|EN|GPT4Turbo|"0.2"|7|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_8|4|CT|Low|EN|GPT4Turbo|"0.2"|8|9|9|2|2|Successful|Successful|||
+Prompt_4_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_9|4|CT|Low|EN|GPT4Turbo|"0.2"|9|9|9|2|2|Successful|Successful|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_1|5|CT|Low|EN|GPT4Turbo|"0.2"|1|89|89|3|3|Successful|Successful|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_10|5|CT|Low|EN|GPT4Turbo|"0.2"|10|89|89|3|3|Successful|Successful|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_2|5|CT|Low|EN|GPT4Turbo|"0.2"|2|||||Failed|Syntax Error|Query (1, 172) The syntax for 'LEFT' is incorrect. (EVALUATE ROW("Value", var NewTable = (SUMMARIZE(      Orders,      Customers[CompanyName],      Customers[ContactName],      "NumberOfOrdersPlaced", COUNTROWS(Orders)  )  LEFT OUTER JOIN Customers ON Orders[CustomerID] = Customers[CustomerID]) var CountRows_= COUNTROWS(NewTable) Return CountRows_)).||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_3|5|CT|Low|EN|GPT4Turbo|"0.2"|3|89|89|3|3|Successful|Successful|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_4|5|CT|Low|EN|GPT4Turbo|"0.2"|4|91|89|3|3|Failed|Semantic Error|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_5|5|CT|Low|EN|GPT4Turbo|"0.2"|5|89|89|3|3|Successful|Successful|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_6|5|CT|Low|EN|GPT4Turbo|"0.2"|6|91|89|3|3|Failed|Semantic Error|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_7|5|CT|Low|EN|GPT4Turbo|"0.2"|7|91|89|3|3|Failed|Semantic Error|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_8|5|CT|Low|EN|GPT4Turbo|"0.2"|8|89|89|3|3|Successful|Successful|||
+Prompt_5_CT_Low_EN_GPT4Turbo_Temp_0.2_Response_9|5|CT|Low|EN|GPT4Turbo|"0.2"|9|91|89|3|3|Failed|Semantic Error|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_1|6|CT|Medium|EN|GPT4Turbo|"0.2"|1|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_10|6|CT|Medium|EN|GPT4Turbo|"0.2"|10|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_2|6|CT|Medium|EN|GPT4Turbo|"0.2"|2|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_3|6|CT|Medium|EN|GPT4Turbo|"0.2"|3|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_4|6|CT|Medium|EN|GPT4Turbo|"0.2"|4|||||Failed|Syntax Error|Query (1, 134) Es wurden keine gemeinsamen Joinspalten erkannt. Die NATURALINNERJOIN'-Joinfunktion erfordert mindestens eine gemeinsame Joinspalte.||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_5|6|CT|Medium|EN|GPT4Turbo|"0.2"|5|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_6|6|CT|Medium|EN|GPT4Turbo|"0.2"|6|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_7|6|CT|Medium|EN|GPT4Turbo|"0.2"|7|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_8|6|CT|Medium|EN|GPT4Turbo|"0.2"|8|77|77|3|3|Successful|Successful|||
+Prompt_6_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_9|6|CT|Medium|EN|GPT4Turbo|"0.2"|9|||||Failed|Syntax Error|Query (1, 134) Es wurden keine gemeinsamen Joinspalten erkannt. Die NATURALINNERJOIN'-Joinfunktion erfordert mindestens eine gemeinsame Joinspalte.||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_1|7|CT|Medium|EN|GPT4Turbo|"0.2"|1|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_10|7|CT|Medium|EN|GPT4Turbo|"0.2"|10|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_2|7|CT|Medium|EN|GPT4Turbo|"0.2"|2|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_3|7|CT|Medium|EN|GPT4Turbo|"0.2"|3|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_4|7|CT|Medium|EN|GPT4Turbo|"0.2"|4|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_5|7|CT|Medium|EN|GPT4Turbo|"0.2"|5|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_6|7|CT|Medium|EN|GPT4Turbo|"0.2"|6|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_7|7|CT|Medium|EN|GPT4Turbo|"0.2"|7|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_8|7|CT|Medium|EN|GPT4Turbo|"0.2"|8|1156|1156|3|3|Successful|Successful|||
+Prompt_7_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_9|7|CT|Medium|EN|GPT4Turbo|"0.2"|9|1156|1156|3|3|Successful|Successful|||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_1|8|CT|Medium|EN|GPT4Turbo|"0.2"|1|77|77|12|3|Failed|Semantic Error|||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_10|8|CT|Medium|EN|GPT4Turbo|"0.2"|10|||||Failed|Syntax Error|Query (1, 293) Für die Spalte "UnitPrice" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_2|8|CT|Medium|EN|GPT4Turbo|"0.2"|2|||||Failed|Syntax Error|Query (1, 306) Für die Spalte "UnitPrice" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_3|8|CT|Medium|EN|GPT4Turbo|"0.2"|3|77|77|12|3|Failed|Semantic Error|||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_4|8|CT|Medium|EN|GPT4Turbo|"0.2"|4|77|77|12|3|Failed|Semantic Error|||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_5|8|CT|Medium|EN|GPT4Turbo|"0.2"|5|||||Failed|Syntax Error|Query (1, 245) Für die Spalte "UnitPrice" kann in der Tabelle "Products" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_6|8|CT|Medium|EN|GPT4Turbo|"0.2"|6|77|77|12|3|Failed|Semantic Error|||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_7|8|CT|Medium|EN|GPT4Turbo|"0.2"|7|||||Failed|Syntax Error|Query (1, 268) The syntax for 'SELECTCOLUMNS' is incorrect. (EVALUATE ROW("Value", var NewTable = (ADDCOLUMNS(      Products,      "NetProfit",       SUMX(          RELATEDTABLE(Order_Details),          (Order_Details[UnitPrice] * (1 - Order_Details[Discount]) - Products[UnitPrice] * 0.75) * Order_Details[Quantity]      )  )  SELECTCOLUMNS(      NetProfitTable,      "ProductID", Products[ProductID],      "ProductName", Products[ProductName],      "NetProfit", [NetProfit]  )) var CountRows_= COUNTROWS(NewTable) Return CountRows_)).||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_8|8|CT|Medium|EN|GPT4Turbo|"0.2"|8|77|77|12|3|Failed|Semantic Error|||
+Prompt_8_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_9|8|CT|Medium|EN|GPT4Turbo|"0.2"|9|77|77|12|3|Failed|Semantic Error|||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_1|9|CT|Medium|EN|GPT4Turbo|"0.2"|1|||||Failed|Syntax Error|Query (1, 956) Das erste Argument für 'DATEADD' muss eine Spalte angeben.||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_10|9|CT|Medium|EN|GPT4Turbo|"0.2"|10|||||Failed|Syntax Error|Query (1, 804) Das erste Argument für 'DATEADD' muss eine Spalte angeben.||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_2|9|CT|Medium|EN|GPT4Turbo|"0.2"|2|634|634|4|4|Successful|Successful|||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_3|9|CT|Medium|EN|GPT4Turbo|"0.2"|3|634|634|4|4|Successful|Successful|||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_4|9|CT|Medium|EN|GPT4Turbo|"0.2"|4|634|634|4|4|Successful|Successful|||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_5|9|CT|Medium|EN|GPT4Turbo|"0.2"|5|634|634|4|4|Successful|Successful|||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_6|9|CT|Medium|EN|GPT4Turbo|"0.2"|6|||||Failed|Syntax Error|Query (1, 485) Der Wert für die Spalte "MonthlySales" kann nicht ermittelt werden. Entweder ist die Spalte nicht vorhanden, oder für diese Spalte liegt keine aktuelle Zeile vor.||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_7|9|CT|Medium|EN|GPT4Turbo|"0.2"|7|||||Failed|Syntax Error|Query (1, 934) Das erste Argument für 'DATEADD' muss eine Spalte angeben.||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_8|9|CT|Medium|EN|GPT4Turbo|"0.2"|8|634|634|4|4|Successful|Successful|||
+Prompt_9_CT_Medium_EN_GPT4Turbo_Temp_0.2_Response_9|9|CT|Medium|EN|GPT4Turbo|"0.2"|9|634|634|4|4|Successful|Successful|||

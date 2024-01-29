@@ -1,0 +1,601 @@
+﻿GPT_Answer_ID|Prompt_ID_Nummer|Prompt_Category|Prompt_Level|Prompt_Language|Prompt_GPT_Model|Prompt_Temperature|Prompt_Run|Actual_Result|Desired_Result|EvaluationStatus_1|EvaluationStatus_2|ErrorMessage|ExceptionMessage|Comment
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_1|16|CC|Low|EN|GPT35Turbo|"0.2"|1|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_10|16|CC|Low|EN|GPT35Turbo|"0.2"|10|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_2|16|CC|Low|EN|GPT35Turbo|"0.2"|2|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_3|16|CC|Low|EN|GPT35Turbo|"0.2"|3|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_4|16|CC|Low|EN|GPT35Turbo|"0.2"|4|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_5|16|CC|Low|EN|GPT35Turbo|"0.2"|5|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_6|16|CC|Low|EN|GPT35Turbo|"0.2"|6|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_7|16|CC|Low|EN|GPT35Turbo|"0.2"|7|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_8|16|CC|Low|EN|GPT35Turbo|"0.2"|8|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_9|16|CC|Low|EN|GPT35Turbo|"0.2"|9|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_1|16|CC|Low|EN|GPT35Turbo|"0.4"|1|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_10|16|CC|Low|EN|GPT35Turbo|"0.4"|10|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_2|16|CC|Low|EN|GPT35Turbo|"0.4"|2|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_3|16|CC|Low|EN|GPT35Turbo|"0.4"|3|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_4|16|CC|Low|EN|GPT35Turbo|"0.4"|4|1|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_5|16|CC|Low|EN|GPT35Turbo|"0.4"|5|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_6|16|CC|Low|EN|GPT35Turbo|"0.4"|6|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_7|16|CC|Low|EN|GPT35Turbo|"0.4"|7|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_8|16|CC|Low|EN|GPT35Turbo|"0.4"|8|4|4|Successful|Successful|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_9|16|CC|Low|EN|GPT35Turbo|"0.4"|9|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_1|16|CC|Low|EN|GPT35Turbo|"0.6"|1|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_10|16|CC|Low|EN|GPT35Turbo|"0.6"|10|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_2|16|CC|Low|EN|GPT35Turbo|"0.6"|2|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_3|16|CC|Low|EN|GPT35Turbo|"0.6"|3|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_4|16|CC|Low|EN|GPT35Turbo|"0.6"|4|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_5|16|CC|Low|EN|GPT35Turbo|"0.6"|5|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_6|16|CC|Low|EN|GPT35Turbo|"0.6"|6|1|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_7|16|CC|Low|EN|GPT35Turbo|"0.6"|7|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_8|16|CC|Low|EN|GPT35Turbo|"0.6"|8|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_9|16|CC|Low|EN|GPT35Turbo|"0.6"|9|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_1|16|CC|Low|EN|GPT35Turbo|"0.8"|1|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_10|16|CC|Low|EN|GPT35Turbo|"0.8"|10|4|4|Successful|Successful|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_2|16|CC|Low|EN|GPT35Turbo|"0.8"|2|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_3|16|CC|Low|EN|GPT35Turbo|"0.8"|3|4|4|Successful|Successful|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_4|16|CC|Low|EN|GPT35Turbo|"0.8"|4|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_5|16|CC|Low|EN|GPT35Turbo|"0.8"|5|1|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_6|16|CC|Low|EN|GPT35Turbo|"0.8"|6|830|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_7|16|CC|Low|EN|GPT35Turbo|"0.8"|7|4|4|Successful|Successful|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_8|16|CC|Low|EN|GPT35Turbo|"0.8"|8|1|4|Failed|Semantic Error|||
+Prompt_16_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_9|16|CC|Low|EN|GPT35Turbo|"0.8"|9|4|4|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_1|17|CC|Low|EN|GPT35Turbo|"0.2"|1|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_10|17|CC|Low|EN|GPT35Turbo|"0.2"|10|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_2|17|CC|Low|EN|GPT35Turbo|"0.2"|2|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_3|17|CC|Low|EN|GPT35Turbo|"0.2"|3|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_4|17|CC|Low|EN|GPT35Turbo|"0.2"|4|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_5|17|CC|Low|EN|GPT35Turbo|"0.2"|5|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_6|17|CC|Low|EN|GPT35Turbo|"0.2"|6|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_7|17|CC|Low|EN|GPT35Turbo|"0.2"|7|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_8|17|CC|Low|EN|GPT35Turbo|"0.2"|8|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_9|17|CC|Low|EN|GPT35Turbo|"0.2"|9|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_1|17|CC|Low|EN|GPT35Turbo|"0.4"|1|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_10|17|CC|Low|EN|GPT35Turbo|"0.4"|10|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_2|17|CC|Low|EN|GPT35Turbo|"0.4"|2|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_3|17|CC|Low|EN|GPT35Turbo|"0.4"|3|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_4|17|CC|Low|EN|GPT35Turbo|"0.4"|4|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_5|17|CC|Low|EN|GPT35Turbo|"0.4"|5|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_6|17|CC|Low|EN|GPT35Turbo|"0.4"|6|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_7|17|CC|Low|EN|GPT35Turbo|"0.4"|7|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_8|17|CC|Low|EN|GPT35Turbo|"0.4"|8|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_9|17|CC|Low|EN|GPT35Turbo|"0.4"|9|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_1|17|CC|Low|EN|GPT35Turbo|"0.6"|1|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_10|17|CC|Low|EN|GPT35Turbo|"0.6"|10|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_2|17|CC|Low|EN|GPT35Turbo|"0.6"|2|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_3|17|CC|Low|EN|GPT35Turbo|"0.6"|3|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_4|17|CC|Low|EN|GPT35Turbo|"0.6"|4|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_5|17|CC|Low|EN|GPT35Turbo|"0.6"|5|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_6|17|CC|Low|EN|GPT35Turbo|"0.6"|6|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_7|17|CC|Low|EN|GPT35Turbo|"0.6"|7|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_8|17|CC|Low|EN|GPT35Turbo|"0.6"|8|75|76|Failed|Semantic Error|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_9|17|CC|Low|EN|GPT35Turbo|"0.6"|9|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_1|17|CC|Low|EN|GPT35Turbo|"0.8"|1|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_10|17|CC|Low|EN|GPT35Turbo|"0.8"|10|||Failed|Syntax Error|Die Spalte "Employees[BirthDate]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_2|17|CC|Low|EN|GPT35Turbo|"0.8"|2|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_3|17|CC|Low|EN|GPT35Turbo|"0.8"|3|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_4|17|CC|Low|EN|GPT35Turbo|"0.8"|4|75|76|Failed|Semantic Error|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_5|17|CC|Low|EN|GPT35Turbo|"0.8"|5|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_6|17|CC|Low|EN|GPT35Turbo|"0.8"|6|75|76|Failed|Semantic Error|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_7|17|CC|Low|EN|GPT35Turbo|"0.8"|7|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_8|17|CC|Low|EN|GPT35Turbo|"0.8"|8|76|76|Successful|Successful|||
+Prompt_17_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_9|17|CC|Low|EN|GPT35Turbo|"0.8"|9|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_1|18|CC|Low|EN|GPT35Turbo|"0.2"|1|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_10|18|CC|Low|EN|GPT35Turbo|"0.2"|10|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_2|18|CC|Low|EN|GPT35Turbo|"0.2"|2|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_3|18|CC|Low|EN|GPT35Turbo|"0.2"|3|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_4|18|CC|Low|EN|GPT35Turbo|"0.2"|4|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_5|18|CC|Low|EN|GPT35Turbo|"0.2"|5|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_6|18|CC|Low|EN|GPT35Turbo|"0.2"|6|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_7|18|CC|Low|EN|GPT35Turbo|"0.2"|7|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_8|18|CC|Low|EN|GPT35Turbo|"0.2"|8|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_9|18|CC|Low|EN|GPT35Turbo|"0.2"|9|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_1|18|CC|Low|EN|GPT35Turbo|"0.4"|1|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_10|18|CC|Low|EN|GPT35Turbo|"0.4"|10|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_2|18|CC|Low|EN|GPT35Turbo|"0.4"|2|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_3|18|CC|Low|EN|GPT35Turbo|"0.4"|3|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_4|18|CC|Low|EN|GPT35Turbo|"0.4"|4|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_5|18|CC|Low|EN|GPT35Turbo|"0.4"|5|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_6|18|CC|Low|EN|GPT35Turbo|"0.4"|6|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_7|18|CC|Low|EN|GPT35Turbo|"0.4"|7|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_8|18|CC|Low|EN|GPT35Turbo|"0.4"|8|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_9|18|CC|Low|EN|GPT35Turbo|"0.4"|9|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_1|18|CC|Low|EN|GPT35Turbo|"0.6"|1|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_10|18|CC|Low|EN|GPT35Turbo|"0.6"|10|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_2|18|CC|Low|EN|GPT35Turbo|"0.6"|2|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_3|18|CC|Low|EN|GPT35Turbo|"0.6"|3|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_4|18|CC|Low|EN|GPT35Turbo|"0.6"|4|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_5|18|CC|Low|EN|GPT35Turbo|"0.6"|5|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_6|18|CC|Low|EN|GPT35Turbo|"0.6"|6|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_7|18|CC|Low|EN|GPT35Turbo|"0.6"|7|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_8|18|CC|Low|EN|GPT35Turbo|"0.6"|8|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_9|18|CC|Low|EN|GPT35Turbo|"0.6"|9|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_1|18|CC|Low|EN|GPT35Turbo|"0.8"|1|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_10|18|CC|Low|EN|GPT35Turbo|"0.8"|10|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_2|18|CC|Low|EN|GPT35Turbo|"0.8"|2|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_3|18|CC|Low|EN|GPT35Turbo|"0.8"|3|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_4|18|CC|Low|EN|GPT35Turbo|"0.8"|4|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_5|18|CC|Low|EN|GPT35Turbo|"0.8"|5|Davolio, Nancy|Davolio, Nancy|Successful|Successful|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_6|18|CC|Low|EN|GPT35Turbo|"0.8"|6|Davolio, Nancy|Davolio, Nancy|Successful|Successful|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_7|18|CC|Low|EN|GPT35Turbo|"0.8"|7|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_8|18|CC|Low|EN|GPT35Turbo|"0.8"|8|[Davolio, Nancy]|Davolio, Nancy|Failed|Semantic Error|||
+Prompt_18_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_9|18|CC|Low|EN|GPT35Turbo|"0.8"|9|||Failed|Syntax Error|Zu viele Argumente wurden an die CONCATENATE-Funktion übergeben. Für die Funktion sind maximal 2 Argumente zulässig.||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_1|19|CC|Low|EN|GPT35Turbo|"0.2"|1|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_10|19|CC|Low|EN|GPT35Turbo|"0.2"|10|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_2|19|CC|Low|EN|GPT35Turbo|"0.2"|2|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_3|19|CC|Low|EN|GPT35Turbo|"0.2"|3|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_4|19|CC|Low|EN|GPT35Turbo|"0.2"|4|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_5|19|CC|Low|EN|GPT35Turbo|"0.2"|5|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_6|19|CC|Low|EN|GPT35Turbo|"0.2"|6|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_7|19|CC|Low|EN|GPT35Turbo|"0.2"|7|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_8|19|CC|Low|EN|GPT35Turbo|"0.2"|8|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_9|19|CC|Low|EN|GPT35Turbo|"0.2"|9|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_1|19|CC|Low|EN|GPT35Turbo|"0.4"|1|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_10|19|CC|Low|EN|GPT35Turbo|"0.4"|10|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_2|19|CC|Low|EN|GPT35Turbo|"0.4"|2|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_3|19|CC|Low|EN|GPT35Turbo|"0.4"|3|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_4|19|CC|Low|EN|GPT35Turbo|"0.4"|4|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_5|19|CC|Low|EN|GPT35Turbo|"0.4"|5|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_6|19|CC|Low|EN|GPT35Turbo|"0.4"|6|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_7|19|CC|Low|EN|GPT35Turbo|"0.4"|7|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_8|19|CC|Low|EN|GPT35Turbo|"0.4"|8|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_9|19|CC|Low|EN|GPT35Turbo|"0.4"|9|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_1|19|CC|Low|EN|GPT35Turbo|"0.6"|1|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_10|19|CC|Low|EN|GPT35Turbo|"0.6"|10|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_2|19|CC|Low|EN|GPT35Turbo|"0.6"|2|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_3|19|CC|Low|EN|GPT35Turbo|"0.6"|3|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_4|19|CC|Low|EN|GPT35Turbo|"0.6"|4|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_5|19|CC|Low|EN|GPT35Turbo|"0.6"|5|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_6|19|CC|Low|EN|GPT35Turbo|"0.6"|6|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_7|19|CC|Low|EN|GPT35Turbo|"0.6"|7|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_8|19|CC|Low|EN|GPT35Turbo|"0.6"|8|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_9|19|CC|Low|EN|GPT35Turbo|"0.6"|9|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_1|19|CC|Low|EN|GPT35Turbo|"0.8"|1|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_10|19|CC|Low|EN|GPT35Turbo|"0.8"|10|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_2|19|CC|Low|EN|GPT35Turbo|"0.8"|2|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_3|19|CC|Low|EN|GPT35Turbo|"0.8"|3|||Failed|Syntax Error|Die Tabelle "Employee" wurde nicht gefunden.||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_4|19|CC|Low|EN|GPT35Turbo|"0.8"|4|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_5|19|CC|Low|EN|GPT35Turbo|"0.8"|5|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_6|19|CC|Low|EN|GPT35Turbo|"0.8"|6|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_7|19|CC|Low|EN|GPT35Turbo|"0.8"|7|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_8|19|CC|Low|EN|GPT35Turbo|"0.8"|8|11579|11579|Successful|Successful|||
+Prompt_19_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_9|19|CC|Low|EN|GPT35Turbo|"0.8"|9|11579|11579|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_1|20|CC|Low|EN|GPT35Turbo|"0.2"|1|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_10|20|CC|Low|EN|GPT35Turbo|"0.2"|10|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_2|20|CC|Low|EN|GPT35Turbo|"0.2"|2|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_3|20|CC|Low|EN|GPT35Turbo|"0.2"|3|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_4|20|CC|Low|EN|GPT35Turbo|"0.2"|4|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_5|20|CC|Low|EN|GPT35Turbo|"0.2"|5|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_6|20|CC|Low|EN|GPT35Turbo|"0.2"|6|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_7|20|CC|Low|EN|GPT35Turbo|"0.2"|7|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_8|20|CC|Low|EN|GPT35Turbo|"0.2"|8|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.2_Response_9|20|CC|Low|EN|GPT35Turbo|"0.2"|9|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_1|20|CC|Low|EN|GPT35Turbo|"0.4"|1|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_10|20|CC|Low|EN|GPT35Turbo|"0.4"|10|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_2|20|CC|Low|EN|GPT35Turbo|"0.4"|2|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_3|20|CC|Low|EN|GPT35Turbo|"0.4"|3|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_4|20|CC|Low|EN|GPT35Turbo|"0.4"|4|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_5|20|CC|Low|EN|GPT35Turbo|"0.4"|5|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_6|20|CC|Low|EN|GPT35Turbo|"0.4"|6|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_7|20|CC|Low|EN|GPT35Turbo|"0.4"|7|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_8|20|CC|Low|EN|GPT35Turbo|"0.4"|8|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.4_Response_9|20|CC|Low|EN|GPT35Turbo|"0.4"|9|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_1|20|CC|Low|EN|GPT35Turbo|"0.6"|1|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_10|20|CC|Low|EN|GPT35Turbo|"0.6"|10|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_2|20|CC|Low|EN|GPT35Turbo|"0.6"|2|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_3|20|CC|Low|EN|GPT35Turbo|"0.6"|3|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_4|20|CC|Low|EN|GPT35Turbo|"0.6"|4|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_5|20|CC|Low|EN|GPT35Turbo|"0.6"|5|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_6|20|CC|Low|EN|GPT35Turbo|"0.6"|6|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_7|20|CC|Low|EN|GPT35Turbo|"0.6"|7|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_8|20|CC|Low|EN|GPT35Turbo|"0.6"|8|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.6_Response_9|20|CC|Low|EN|GPT35Turbo|"0.6"|9|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_1|20|CC|Low|EN|GPT35Turbo|"0.8"|1|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_10|20|CC|Low|EN|GPT35Turbo|"0.8"|10|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_2|20|CC|Low|EN|GPT35Turbo|"0.8"|2|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_3|20|CC|Low|EN|GPT35Turbo|"0.8"|3|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_4|20|CC|Low|EN|GPT35Turbo|"0.8"|4|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_5|20|CC|Low|EN|GPT35Turbo|"0.8"|5|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_6|20|CC|Low|EN|GPT35Turbo|"0.8"|6|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_7|20|CC|Low|EN|GPT35Turbo|"0.8"|7|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_8|20|CC|Low|EN|GPT35Turbo|"0.8"|8|5|5|Successful|Successful|||
+Prompt_20_CC_Low_EN_GPT35Turbo_Temp_0.8_Response_9|20|CC|Low|EN|GPT35Turbo|"0.8"|9|5|5|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_1|21|CC|Medium|EN|GPT35Turbo|"0.2"|1|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_10|21|CC|Medium|EN|GPT35Turbo|"0.2"|10|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_2|21|CC|Medium|EN|GPT35Turbo|"0.2"|2|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_3|21|CC|Medium|EN|GPT35Turbo|"0.2"|3|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_4|21|CC|Medium|EN|GPT35Turbo|"0.2"|4|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_5|21|CC|Medium|EN|GPT35Turbo|"0.2"|5|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_6|21|CC|Medium|EN|GPT35Turbo|"0.2"|6|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_7|21|CC|Medium|EN|GPT35Turbo|"0.2"|7|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_8|21|CC|Medium|EN|GPT35Turbo|"0.2"|8|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_9|21|CC|Medium|EN|GPT35Turbo|"0.2"|9|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_1|21|CC|Medium|EN|GPT35Turbo|"0.4"|1|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_10|21|CC|Medium|EN|GPT35Turbo|"0.4"|10|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_2|21|CC|Medium|EN|GPT35Turbo|"0.4"|2|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_3|21|CC|Medium|EN|GPT35Turbo|"0.4"|3|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_4|21|CC|Medium|EN|GPT35Turbo|"0.4"|4|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_5|21|CC|Medium|EN|GPT35Turbo|"0.4"|5|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_6|21|CC|Medium|EN|GPT35Turbo|"0.4"|6|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_7|21|CC|Medium|EN|GPT35Turbo|"0.4"|7|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_8|21|CC|Medium|EN|GPT35Turbo|"0.4"|8|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_9|21|CC|Medium|EN|GPT35Turbo|"0.4"|9|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_1|21|CC|Medium|EN|GPT35Turbo|"0.6"|1|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_10|21|CC|Medium|EN|GPT35Turbo|"0.6"|10|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_2|21|CC|Medium|EN|GPT35Turbo|"0.6"|2|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_3|21|CC|Medium|EN|GPT35Turbo|"0.6"|3|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_4|21|CC|Medium|EN|GPT35Turbo|"0.6"|4|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_5|21|CC|Medium|EN|GPT35Turbo|"0.6"|5|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_6|21|CC|Medium|EN|GPT35Turbo|"0.6"|6|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_7|21|CC|Medium|EN|GPT35Turbo|"0.6"|7|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_8|21|CC|Medium|EN|GPT35Turbo|"0.6"|8|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_9|21|CC|Medium|EN|GPT35Turbo|"0.6"|9|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_1|21|CC|Medium|EN|GPT35Turbo|"0.8"|1|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_10|21|CC|Medium|EN|GPT35Turbo|"0.8"|10|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_2|21|CC|Medium|EN|GPT35Turbo|"0.8"|2|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_3|21|CC|Medium|EN|GPT35Turbo|"0.8"|3|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_4|21|CC|Medium|EN|GPT35Turbo|"0.8"|4|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_5|21|CC|Medium|EN|GPT35Turbo|"0.8"|5|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_6|21|CC|Medium|EN|GPT35Turbo|"0.8"|6|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_7|21|CC|Medium|EN|GPT35Turbo|"0.8"|7|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_8|21|CC|Medium|EN|GPT35Turbo|"0.8"|8|Beverages|Beverages|Successful|Successful|||
+Prompt_21_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_9|21|CC|Medium|EN|GPT35Turbo|"0.8"|9|Beverages|Beverages|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_1|22|CC|Medium|EN|GPT35Turbo|"0.2"|1|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_10|22|CC|Medium|EN|GPT35Turbo|"0.2"|10|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_2|22|CC|Medium|EN|GPT35Turbo|"0.2"|2|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_3|22|CC|Medium|EN|GPT35Turbo|"0.2"|3|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_4|22|CC|Medium|EN|GPT35Turbo|"0.2"|4|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_5|22|CC|Medium|EN|GPT35Turbo|"0.2"|5|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_6|22|CC|Medium|EN|GPT35Turbo|"0.2"|6|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_7|22|CC|Medium|EN|GPT35Turbo|"0.2"|7|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_8|22|CC|Medium|EN|GPT35Turbo|"0.2"|8|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_9|22|CC|Medium|EN|GPT35Turbo|"0.2"|9|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_1|22|CC|Medium|EN|GPT35Turbo|"0.4"|1|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_10|22|CC|Medium|EN|GPT35Turbo|"0.4"|10|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_2|22|CC|Medium|EN|GPT35Turbo|"0.4"|2|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_3|22|CC|Medium|EN|GPT35Turbo|"0.4"|3|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_4|22|CC|Medium|EN|GPT35Turbo|"0.4"|4|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_5|22|CC|Medium|EN|GPT35Turbo|"0.4"|5|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_6|22|CC|Medium|EN|GPT35Turbo|"0.4"|6|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_7|22|CC|Medium|EN|GPT35Turbo|"0.4"|7|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_8|22|CC|Medium|EN|GPT35Turbo|"0.4"|8|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_9|22|CC|Medium|EN|GPT35Turbo|"0.4"|9|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_1|22|CC|Medium|EN|GPT35Turbo|"0.6"|1|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_10|22|CC|Medium|EN|GPT35Turbo|"0.6"|10|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_2|22|CC|Medium|EN|GPT35Turbo|"0.6"|2|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_3|22|CC|Medium|EN|GPT35Turbo|"0.6"|3|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_4|22|CC|Medium|EN|GPT35Turbo|"0.6"|4|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_5|22|CC|Medium|EN|GPT35Turbo|"0.6"|5|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_6|22|CC|Medium|EN|GPT35Turbo|"0.6"|6|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_7|22|CC|Medium|EN|GPT35Turbo|"0.6"|7|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_8|22|CC|Medium|EN|GPT35Turbo|"0.6"|8|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_9|22|CC|Medium|EN|GPT35Turbo|"0.6"|9|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_1|22|CC|Medium|EN|GPT35Turbo|"0.8"|1|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_10|22|CC|Medium|EN|GPT35Turbo|"0.8"|10|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_2|22|CC|Medium|EN|GPT35Turbo|"0.8"|2|1354458,59|202143,71|Failed|Semantic Error|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_3|22|CC|Medium|EN|GPT35Turbo|"0.8"|3|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_4|22|CC|Medium|EN|GPT35Turbo|"0.8"|4|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_5|22|CC|Medium|EN|GPT35Turbo|"0.8"|5|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_6|22|CC|Medium|EN|GPT35Turbo|"0.8"|6|202143,71|202143,71|Successful|Successful|||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_7|22|CC|Medium|EN|GPT35Turbo|"0.8"|7|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_8|22|CC|Medium|EN|GPT35Turbo|"0.8"|8|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_22_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_9|22|CC|Medium|EN|GPT35Turbo|"0.8"|9|202143,71|202143,71|Successful|Successful|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_1|23|CC|Medium|EN|GPT35Turbo|"0.2"|1|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_10|23|CC|Medium|EN|GPT35Turbo|"0.2"|10|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_2|23|CC|Medium|EN|GPT35Turbo|"0.2"|2|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_3|23|CC|Medium|EN|GPT35Turbo|"0.2"|3|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_4|23|CC|Medium|EN|GPT35Turbo|"0.2"|4|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_5|23|CC|Medium|EN|GPT35Turbo|"0.2"|5|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_6|23|CC|Medium|EN|GPT35Turbo|"0.2"|6|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_7|23|CC|Medium|EN|GPT35Turbo|"0.2"|7|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_8|23|CC|Medium|EN|GPT35Turbo|"0.2"|8|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_9|23|CC|Medium|EN|GPT35Turbo|"0.2"|9|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_1|23|CC|Medium|EN|GPT35Turbo|"0.4"|1|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_10|23|CC|Medium|EN|GPT35Turbo|"0.4"|10|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_2|23|CC|Medium|EN|GPT35Turbo|"0.4"|2|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_3|23|CC|Medium|EN|GPT35Turbo|"0.4"|3|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_4|23|CC|Medium|EN|GPT35Turbo|"0.4"|4|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_5|23|CC|Medium|EN|GPT35Turbo|"0.4"|5|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_6|23|CC|Medium|EN|GPT35Turbo|"0.4"|6|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_7|23|CC|Medium|EN|GPT35Turbo|"0.4"|7|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_8|23|CC|Medium|EN|GPT35Turbo|"0.4"|8|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_9|23|CC|Medium|EN|GPT35Turbo|"0.4"|9|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_1|23|CC|Medium|EN|GPT35Turbo|"0.6"|1|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_10|23|CC|Medium|EN|GPT35Turbo|"0.6"|10|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_2|23|CC|Medium|EN|GPT35Turbo|"0.6"|2|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_3|23|CC|Medium|EN|GPT35Turbo|"0.6"|3|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_4|23|CC|Medium|EN|GPT35Turbo|"0.6"|4|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_5|23|CC|Medium|EN|GPT35Turbo|"0.6"|5|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_6|23|CC|Medium|EN|GPT35Turbo|"0.6"|6|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_7|23|CC|Medium|EN|GPT35Turbo|"0.6"|7|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_8|23|CC|Medium|EN|GPT35Turbo|"0.6"|8|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_9|23|CC|Medium|EN|GPT35Turbo|"0.6"|9|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_1|23|CC|Medium|EN|GPT35Turbo|"0.8"|1|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_10|23|CC|Medium|EN|GPT35Turbo|"0.8"|10|4|4|Successful|Successful|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_2|23|CC|Medium|EN|GPT35Turbo|"0.8"|2|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_3|23|CC|Medium|EN|GPT35Turbo|"0.8"|3|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_4|23|CC|Medium|EN|GPT35Turbo|"0.8"|4|4|4|Successful|Successful|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_5|23|CC|Medium|EN|GPT35Turbo|"0.8"|5|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_6|23|CC|Medium|EN|GPT35Turbo|"0.8"|6|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_7|23|CC|Medium|EN|GPT35Turbo|"0.8"|7|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_8|23|CC|Medium|EN|GPT35Turbo|"0.8"|8|8|4|Failed|Semantic Error|||
+Prompt_23_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_9|23|CC|Medium|EN|GPT35Turbo|"0.8"|9|8|4|Failed|Semantic Error|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_1|24|CC|Medium|EN|GPT35Turbo|"0.2"|1|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_10|24|CC|Medium|EN|GPT35Turbo|"0.2"|10|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_2|24|CC|Medium|EN|GPT35Turbo|"0.2"|2|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_3|24|CC|Medium|EN|GPT35Turbo|"0.2"|3|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_4|24|CC|Medium|EN|GPT35Turbo|"0.2"|4|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_5|24|CC|Medium|EN|GPT35Turbo|"0.2"|5|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_6|24|CC|Medium|EN|GPT35Turbo|"0.2"|6|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_7|24|CC|Medium|EN|GPT35Turbo|"0.2"|7|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_8|24|CC|Medium|EN|GPT35Turbo|"0.2"|8|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_9|24|CC|Medium|EN|GPT35Turbo|"0.2"|9|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_1|24|CC|Medium|EN|GPT35Turbo|"0.4"|1|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_10|24|CC|Medium|EN|GPT35Turbo|"0.4"|10|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_2|24|CC|Medium|EN|GPT35Turbo|"0.4"|2|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_3|24|CC|Medium|EN|GPT35Turbo|"0.4"|3|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_4|24|CC|Medium|EN|GPT35Turbo|"0.4"|4|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_5|24|CC|Medium|EN|GPT35Turbo|"0.4"|5|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_6|24|CC|Medium|EN|GPT35Turbo|"0.4"|6|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_7|24|CC|Medium|EN|GPT35Turbo|"0.4"|7|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_8|24|CC|Medium|EN|GPT35Turbo|"0.4"|8|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_9|24|CC|Medium|EN|GPT35Turbo|"0.4"|9|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_1|24|CC|Medium|EN|GPT35Turbo|"0.6"|1|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_10|24|CC|Medium|EN|GPT35Turbo|"0.6"|10|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_2|24|CC|Medium|EN|GPT35Turbo|"0.6"|2|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_3|24|CC|Medium|EN|GPT35Turbo|"0.6"|3|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_4|24|CC|Medium|EN|GPT35Turbo|"0.6"|4|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_5|24|CC|Medium|EN|GPT35Turbo|"0.6"|5|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_6|24|CC|Medium|EN|GPT35Turbo|"0.6"|6|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_7|24|CC|Medium|EN|GPT35Turbo|"0.6"|7|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_8|24|CC|Medium|EN|GPT35Turbo|"0.6"|8|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_9|24|CC|Medium|EN|GPT35Turbo|"0.6"|9|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_1|24|CC|Medium|EN|GPT35Turbo|"0.8"|1|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_10|24|CC|Medium|EN|GPT35Turbo|"0.8"|10|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_2|24|CC|Medium|EN|GPT35Turbo|"0.8"|2|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_3|24|CC|Medium|EN|GPT35Turbo|"0.8"|3|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_4|24|CC|Medium|EN|GPT35Turbo|"0.8"|4|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_5|24|CC|Medium|EN|GPT35Turbo|"0.8"|5|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_6|24|CC|Medium|EN|GPT35Turbo|"0.8"|6|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_7|24|CC|Medium|EN|GPT35Turbo|"0.8"|7|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_8|24|CC|Medium|EN|GPT35Turbo|"0.8"|8|16185,33|16185,33|Successful|Successful|||
+Prompt_24_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_9|24|CC|Medium|EN|GPT35Turbo|"0.8"|9|16185,33|16185,33|Successful|Successful|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_1|25|CC|Medium|EN|GPT35Turbo|"0.2"|1|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_10|25|CC|Medium|EN|GPT35Turbo|"0.2"|10|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_2|25|CC|Medium|EN|GPT35Turbo|"0.2"|2|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_3|25|CC|Medium|EN|GPT35Turbo|"0.2"|3|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_4|25|CC|Medium|EN|GPT35Turbo|"0.2"|4|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_5|25|CC|Medium|EN|GPT35Turbo|"0.2"|5|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_6|25|CC|Medium|EN|GPT35Turbo|"0.2"|6|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_7|25|CC|Medium|EN|GPT35Turbo|"0.2"|7|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_8|25|CC|Medium|EN|GPT35Turbo|"0.2"|8|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.2_Response_9|25|CC|Medium|EN|GPT35Turbo|"0.2"|9|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_1|25|CC|Medium|EN|GPT35Turbo|"0.4"|1|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_10|25|CC|Medium|EN|GPT35Turbo|"0.4"|10|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_2|25|CC|Medium|EN|GPT35Turbo|"0.4"|2|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_3|25|CC|Medium|EN|GPT35Turbo|"0.4"|3|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_4|25|CC|Medium|EN|GPT35Turbo|"0.4"|4|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_5|25|CC|Medium|EN|GPT35Turbo|"0.4"|5|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_6|25|CC|Medium|EN|GPT35Turbo|"0.4"|6|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_7|25|CC|Medium|EN|GPT35Turbo|"0.4"|7|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_8|25|CC|Medium|EN|GPT35Turbo|"0.4"|8|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.4_Response_9|25|CC|Medium|EN|GPT35Turbo|"0.4"|9|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_1|25|CC|Medium|EN|GPT35Turbo|"0.6"|1|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_10|25|CC|Medium|EN|GPT35Turbo|"0.6"|10|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_2|25|CC|Medium|EN|GPT35Turbo|"0.6"|2|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_3|25|CC|Medium|EN|GPT35Turbo|"0.6"|3|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_4|25|CC|Medium|EN|GPT35Turbo|"0.6"|4|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_5|25|CC|Medium|EN|GPT35Turbo|"0.6"|5|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_6|25|CC|Medium|EN|GPT35Turbo|"0.6"|6|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_7|25|CC|Medium|EN|GPT35Turbo|"0.6"|7|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_8|25|CC|Medium|EN|GPT35Turbo|"0.6"|8|03.04.1996 00:00:00|03.04.1996 00:00:00|Successful|Successful|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.6_Response_9|25|CC|Medium|EN|GPT35Turbo|"0.6"|9|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_1|25|CC|Medium|EN|GPT35Turbo|"0.8"|1|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_10|25|CC|Medium|EN|GPT35Turbo|"0.8"|10|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_2|25|CC|Medium|EN|GPT35Turbo|"0.8"|2|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_3|25|CC|Medium|EN|GPT35Turbo|"0.8"|3|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_4|25|CC|Medium|EN|GPT35Turbo|"0.8"|4|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_5|25|CC|Medium|EN|GPT35Turbo|"0.8"|5|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_6|25|CC|Medium|EN|GPT35Turbo|"0.8"|6|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_7|25|CC|Medium|EN|GPT35Turbo|"0.8"|7|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_8|25|CC|Medium|EN|GPT35Turbo|"0.8"|8|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_25_CC_Medium_EN_GPT35Turbo_Temp_0.8_Response_9|25|CC|Medium|EN|GPT35Turbo|"0.8"|9|05.06.1996 00:00:00|03.04.1996 00:00:00|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_1|26|CC|Hard|EN|GPT35Turbo|"0.2"|1|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_10|26|CC|Hard|EN|GPT35Turbo|"0.2"|10|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_2|26|CC|Hard|EN|GPT35Turbo|"0.2"|2|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_3|26|CC|Hard|EN|GPT35Turbo|"0.2"|3|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_4|26|CC|Hard|EN|GPT35Turbo|"0.2"|4|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_5|26|CC|Hard|EN|GPT35Turbo|"0.2"|5|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_6|26|CC|Hard|EN|GPT35Turbo|"0.2"|6|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_7|26|CC|Hard|EN|GPT35Turbo|"0.2"|7|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_8|26|CC|Hard|EN|GPT35Turbo|"0.2"|8|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_9|26|CC|Hard|EN|GPT35Turbo|"0.2"|9|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_1|26|CC|Hard|EN|GPT35Turbo|"0.4"|1|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_10|26|CC|Hard|EN|GPT35Turbo|"0.4"|10|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_2|26|CC|Hard|EN|GPT35Turbo|"0.4"|2|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_3|26|CC|Hard|EN|GPT35Turbo|"0.4"|3|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_4|26|CC|Hard|EN|GPT35Turbo|"0.4"|4|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_5|26|CC|Hard|EN|GPT35Turbo|"0.4"|5|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_6|26|CC|Hard|EN|GPT35Turbo|"0.4"|6|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_7|26|CC|Hard|EN|GPT35Turbo|"0.4"|7|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_8|26|CC|Hard|EN|GPT35Turbo|"0.4"|8|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_9|26|CC|Hard|EN|GPT35Turbo|"0.4"|9|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_1|26|CC|Hard|EN|GPT35Turbo|"0.6"|1|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_10|26|CC|Hard|EN|GPT35Turbo|"0.6"|10|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_2|26|CC|Hard|EN|GPT35Turbo|"0.6"|2|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_3|26|CC|Hard|EN|GPT35Turbo|"0.6"|3|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_4|26|CC|Hard|EN|GPT35Turbo|"0.6"|4|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_5|26|CC|Hard|EN|GPT35Turbo|"0.6"|5|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_6|26|CC|Hard|EN|GPT35Turbo|"0.6"|6|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_7|26|CC|Hard|EN|GPT35Turbo|"0.6"|7|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_8|26|CC|Hard|EN|GPT35Turbo|"0.6"|8|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_9|26|CC|Hard|EN|GPT35Turbo|"0.6"|9|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_1|26|CC|Hard|EN|GPT35Turbo|"0.8"|1|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_10|26|CC|Hard|EN|GPT35Turbo|"0.8"|10|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_2|26|CC|Hard|EN|GPT35Turbo|"0.8"|2|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_3|26|CC|Hard|EN|GPT35Turbo|"0.8"|3|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_4|26|CC|Hard|EN|GPT35Turbo|"0.8"|4|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_5|26|CC|Hard|EN|GPT35Turbo|"0.8"|5|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_6|26|CC|Hard|EN|GPT35Turbo|"0.8"|6|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_7|26|CC|Hard|EN|GPT35Turbo|"0.8"|7|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_8|26|CC|Hard|EN|GPT35Turbo|"0.8"|8|170|48|Failed|Semantic Error|||
+Prompt_26_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_9|26|CC|Hard|EN|GPT35Turbo|"0.8"|9|170|48|Failed|Semantic Error|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_1|27|CC|Hard|EN|GPT35Turbo|"0.2"|1|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_10|27|CC|Hard|EN|GPT35Turbo|"0.2"|10|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_2|27|CC|Hard|EN|GPT35Turbo|"0.2"|2|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_3|27|CC|Hard|EN|GPT35Turbo|"0.2"|3|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_4|27|CC|Hard|EN|GPT35Turbo|"0.2"|4|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_5|27|CC|Hard|EN|GPT35Turbo|"0.2"|5|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_6|27|CC|Hard|EN|GPT35Turbo|"0.2"|6|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_7|27|CC|Hard|EN|GPT35Turbo|"0.2"|7|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_8|27|CC|Hard|EN|GPT35Turbo|"0.2"|8|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_9|27|CC|Hard|EN|GPT35Turbo|"0.2"|9|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_1|27|CC|Hard|EN|GPT35Turbo|"0.4"|1|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_10|27|CC|Hard|EN|GPT35Turbo|"0.4"|10|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_2|27|CC|Hard|EN|GPT35Turbo|"0.4"|2|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_3|27|CC|Hard|EN|GPT35Turbo|"0.4"|3|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_4|27|CC|Hard|EN|GPT35Turbo|"0.4"|4|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_5|27|CC|Hard|EN|GPT35Turbo|"0.4"|5|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_6|27|CC|Hard|EN|GPT35Turbo|"0.4"|6|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_7|27|CC|Hard|EN|GPT35Turbo|"0.4"|7|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_8|27|CC|Hard|EN|GPT35Turbo|"0.4"|8|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_9|27|CC|Hard|EN|GPT35Turbo|"0.4"|9|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_1|27|CC|Hard|EN|GPT35Turbo|"0.6"|1|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_10|27|CC|Hard|EN|GPT35Turbo|"0.6"|10|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_2|27|CC|Hard|EN|GPT35Turbo|"0.6"|2|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_3|27|CC|Hard|EN|GPT35Turbo|"0.6"|3|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_4|27|CC|Hard|EN|GPT35Turbo|"0.6"|4|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_5|27|CC|Hard|EN|GPT35Turbo|"0.6"|5|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_6|27|CC|Hard|EN|GPT35Turbo|"0.6"|6|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_7|27|CC|Hard|EN|GPT35Turbo|"0.6"|7|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_8|27|CC|Hard|EN|GPT35Turbo|"0.6"|8|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_9|27|CC|Hard|EN|GPT35Turbo|"0.6"|9|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_1|27|CC|Hard|EN|GPT35Turbo|"0.8"|1|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_10|27|CC|Hard|EN|GPT35Turbo|"0.8"|10|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_2|27|CC|Hard|EN|GPT35Turbo|"0.8"|2|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_3|27|CC|Hard|EN|GPT35Turbo|"0.8"|3|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_4|27|CC|Hard|EN|GPT35Turbo|"0.8"|4|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_5|27|CC|Hard|EN|GPT35Turbo|"0.8"|5|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_6|27|CC|Hard|EN|GPT35Turbo|"0.8"|6|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_7|27|CC|Hard|EN|GPT35Turbo|"0.8"|7|||Failed|Syntax Error|Falsche Syntax für "Rank". (DAX(  SUMX(Order_Details, Order_Details[UnitPrice] * Order_Details[Quantity])    Rank = RANKX(ALL(Employees), [TotalSales], , DESC, Dense)  )).||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_8|27|CC|Hard|EN|GPT35Turbo|"0.8"|8|3|3|Successful|Successful|||
+Prompt_27_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_9|27|CC|Hard|EN|GPT35Turbo|"0.8"|9|1|3|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_1|28|CC|Hard|EN|GPT35Turbo|"0.2"|1|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_10|28|CC|Hard|EN|GPT35Turbo|"0.2"|10|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_2|28|CC|Hard|EN|GPT35Turbo|"0.2"|2|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_3|28|CC|Hard|EN|GPT35Turbo|"0.2"|3|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_4|28|CC|Hard|EN|GPT35Turbo|"0.2"|4|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_5|28|CC|Hard|EN|GPT35Turbo|"0.2"|5|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_6|28|CC|Hard|EN|GPT35Turbo|"0.2"|6|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_7|28|CC|Hard|EN|GPT35Turbo|"0.2"|7|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_8|28|CC|Hard|EN|GPT35Turbo|"0.2"|8|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_9|28|CC|Hard|EN|GPT35Turbo|"0.2"|9|1354458,59|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_1|28|CC|Hard|EN|GPT35Turbo|"0.4"|1|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_10|28|CC|Hard|EN|GPT35Turbo|"0.4"|10|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_2|28|CC|Hard|EN|GPT35Turbo|"0.4"|2|||Failed|Syntax Error|Der Wert "VICTE" vom Typ "Text" kann nicht in den Typ "Number" konvertiert werden.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_3|28|CC|Hard|EN|GPT35Turbo|"0.4"|3|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_4|28|CC|Hard|EN|GPT35Turbo|"0.4"|4|1354458,59|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_5|28|CC|Hard|EN|GPT35Turbo|"0.4"|5|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_6|28|CC|Hard|EN|GPT35Turbo|"0.4"|6|||Failed|Syntax Error|Für die Spalte "UnitPrice" kann in der Tabelle "Order_Details" kein einzelner Wert ermittelt werden. Dies kann vorkommen, wenn eine Measureformel auf eine Spalte mit vielen Werten verweist, ohne eine Aggregation wie MIN, MAX, COUNT oder SUM anzugeben, um ein einzelnes Ergebnis zu erhalten.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_7|28|CC|Hard|EN|GPT35Turbo|"0.4"|7|||Failed|Syntax Error|Der Spaltenverweis auf "OrderDate" in der Tabelle "Orders" kann nicht mit einer Variation "Year" verwendet werden, weil diese nicht vorliegt.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_8|28|CC|Hard|EN|GPT35Turbo|"0.4"|8|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_9|28|CC|Hard|EN|GPT35Turbo|"0.4"|9|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_1|28|CC|Hard|EN|GPT35Turbo|"0.6"|1|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_10|28|CC|Hard|EN|GPT35Turbo|"0.6"|10|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_2|28|CC|Hard|EN|GPT35Turbo|"0.6"|2|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_3|28|CC|Hard|EN|GPT35Turbo|"0.6"|3|1354458,59|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_4|28|CC|Hard|EN|GPT35Turbo|"0.6"|4|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_5|28|CC|Hard|EN|GPT35Turbo|"0.6"|5|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_6|28|CC|Hard|EN|GPT35Turbo|"0.6"|6|1354458,59|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_7|28|CC|Hard|EN|GPT35Turbo|"0.6"|7|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_8|28|CC|Hard|EN|GPT35Turbo|"0.6"|8|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_9|28|CC|Hard|EN|GPT35Turbo|"0.6"|9|1402,95|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_1|28|CC|Hard|EN|GPT35Turbo|"0.8"|1|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_10|28|CC|Hard|EN|GPT35Turbo|"0.8"|10|799,75|799,75|Successful|Successful|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_2|28|CC|Hard|EN|GPT35Turbo|"0.8"|2|1354458,59|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_3|28|CC|Hard|EN|GPT35Turbo|"0.8"|3|1354458,59|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_4|28|CC|Hard|EN|GPT35Turbo|"0.8"|4|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_5|28|CC|Hard|EN|GPT35Turbo|"0.8"|5|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_6|28|CC|Hard|EN|GPT35Turbo|"0.8"|6|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_7|28|CC|Hard|EN|GPT35Turbo|"0.8"|7|1354458,59|799,75|Failed|Semantic Error|||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_8|28|CC|Hard|EN|GPT35Turbo|"0.8"|8|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_28_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_9|28|CC|Hard|EN|GPT35Turbo|"0.8"|9|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_1|29|CC|Hard|EN|GPT35Turbo|"0.2"|1|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_10|29|CC|Hard|EN|GPT35Turbo|"0.2"|10|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_2|29|CC|Hard|EN|GPT35Turbo|"0.2"|2|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_3|29|CC|Hard|EN|GPT35Turbo|"0.2"|3|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_4|29|CC|Hard|EN|GPT35Turbo|"0.2"|4|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_5|29|CC|Hard|EN|GPT35Turbo|"0.2"|5|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_6|29|CC|Hard|EN|GPT35Turbo|"0.2"|6|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_7|29|CC|Hard|EN|GPT35Turbo|"0.2"|7|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_8|29|CC|Hard|EN|GPT35Turbo|"0.2"|8|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_9|29|CC|Hard|EN|GPT35Turbo|"0.2"|9|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_1|29|CC|Hard|EN|GPT35Turbo|"0.4"|1|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_10|29|CC|Hard|EN|GPT35Turbo|"0.4"|10|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_2|29|CC|Hard|EN|GPT35Turbo|"0.4"|2|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_3|29|CC|Hard|EN|GPT35Turbo|"0.4"|3|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_4|29|CC|Hard|EN|GPT35Turbo|"0.4"|4|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_5|29|CC|Hard|EN|GPT35Turbo|"0.4"|5|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_6|29|CC|Hard|EN|GPT35Turbo|"0.4"|6|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_7|29|CC|Hard|EN|GPT35Turbo|"0.4"|7|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_8|29|CC|Hard|EN|GPT35Turbo|"0.4"|8|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_9|29|CC|Hard|EN|GPT35Turbo|"0.4"|9|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_1|29|CC|Hard|EN|GPT35Turbo|"0.6"|1|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_10|29|CC|Hard|EN|GPT35Turbo|"0.6"|10|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_2|29|CC|Hard|EN|GPT35Turbo|"0.6"|2|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_3|29|CC|Hard|EN|GPT35Turbo|"0.6"|3|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_4|29|CC|Hard|EN|GPT35Turbo|"0.6"|4|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_5|29|CC|Hard|EN|GPT35Turbo|"0.6"|5|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_6|29|CC|Hard|EN|GPT35Turbo|"0.6"|6|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_7|29|CC|Hard|EN|GPT35Turbo|"0.6"|7|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_8|29|CC|Hard|EN|GPT35Turbo|"0.6"|8|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_9|29|CC|Hard|EN|GPT35Turbo|"0.6"|9|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_1|29|CC|Hard|EN|GPT35Turbo|"0.8"|1|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_10|29|CC|Hard|EN|GPT35Turbo|"0.8"|10|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_2|29|CC|Hard|EN|GPT35Turbo|"0.8"|2|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_3|29|CC|Hard|EN|GPT35Turbo|"0.8"|3|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_4|29|CC|Hard|EN|GPT35Turbo|"0.8"|4|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_5|29|CC|Hard|EN|GPT35Turbo|"0.8"|5|8|3|Failed|Semantic Error|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_6|29|CC|Hard|EN|GPT35Turbo|"0.8"|6|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_7|29|CC|Hard|EN|GPT35Turbo|"0.8"|7|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_8|29|CC|Hard|EN|GPT35Turbo|"0.8"|8|3|3|Successful|Successful|||
+Prompt_29_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_9|29|CC|Hard|EN|GPT35Turbo|"0.8"|9|3|3|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_1|30|CC|Hard|EN|GPT35Turbo|"0.2"|1|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_10|30|CC|Hard|EN|GPT35Turbo|"0.2"|10|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_2|30|CC|Hard|EN|GPT35Turbo|"0.2"|2|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_3|30|CC|Hard|EN|GPT35Turbo|"0.2"|3|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_4|30|CC|Hard|EN|GPT35Turbo|"0.2"|4|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_5|30|CC|Hard|EN|GPT35Turbo|"0.2"|5|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_6|30|CC|Hard|EN|GPT35Turbo|"0.2"|6|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_7|30|CC|Hard|EN|GPT35Turbo|"0.2"|7|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_8|30|CC|Hard|EN|GPT35Turbo|"0.2"|8|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.2_Response_9|30|CC|Hard|EN|GPT35Turbo|"0.2"|9|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_1|30|CC|Hard|EN|GPT35Turbo|"0.4"|1|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_10|30|CC|Hard|EN|GPT35Turbo|"0.4"|10|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_2|30|CC|Hard|EN|GPT35Turbo|"0.4"|2|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_3|30|CC|Hard|EN|GPT35Turbo|"0.4"|3|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_4|30|CC|Hard|EN|GPT35Turbo|"0.4"|4|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_5|30|CC|Hard|EN|GPT35Turbo|"0.4"|5|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_6|30|CC|Hard|EN|GPT35Turbo|"0.4"|6|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_7|30|CC|Hard|EN|GPT35Turbo|"0.4"|7|88665,5517128306|323,20000077039|Failed|Semantic Error|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_8|30|CC|Hard|EN|GPT35Turbo|"0.4"|8|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.4_Response_9|30|CC|Hard|EN|GPT35Turbo|"0.4"|9|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_1|30|CC|Hard|EN|GPT35Turbo|"0.6"|1|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_10|30|CC|Hard|EN|GPT35Turbo|"0.6"|10|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_2|30|CC|Hard|EN|GPT35Turbo|"0.6"|2|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_3|30|CC|Hard|EN|GPT35Turbo|"0.6"|3|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_4|30|CC|Hard|EN|GPT35Turbo|"0.6"|4|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_5|30|CC|Hard|EN|GPT35Turbo|"0.6"|5|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_6|30|CC|Hard|EN|GPT35Turbo|"0.6"|6|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_7|30|CC|Hard|EN|GPT35Turbo|"0.6"|7|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_8|30|CC|Hard|EN|GPT35Turbo|"0.6"|8|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.6_Response_9|30|CC|Hard|EN|GPT35Turbo|"0.6"|9|||Failed|Syntax Error|Die Spalte "Order_Details[UnitPrice]" ist entweder nicht vorhanden oder weist keine Beziehung zu einer Tabelle auf, die im aktuellen Kontext verfügbar ist.||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_1|30|CC|Hard|EN|GPT35Turbo|"0.8"|1|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_10|30|CC|Hard|EN|GPT35Turbo|"0.8"|10|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_2|30|CC|Hard|EN|GPT35Turbo|"0.8"|2|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_3|30|CC|Hard|EN|GPT35Turbo|"0.8"|3|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_4|30|CC|Hard|EN|GPT35Turbo|"0.8"|4|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_5|30|CC|Hard|EN|GPT35Turbo|"0.8"|5|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_6|30|CC|Hard|EN|GPT35Turbo|"0.8"|6|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_7|30|CC|Hard|EN|GPT35Turbo|"0.8"|7|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_8|30|CC|Hard|EN|GPT35Turbo|"0.8"|8|323,20000077039|323,20000077039|Successful|Successful|||
+Prompt_30_CC_Hard_EN_GPT35Turbo_Temp_0.8_Response_9|30|CC|Hard|EN|GPT35Turbo|"0.8"|9|323,20000077039|323,20000077039|Successful|Successful|||
